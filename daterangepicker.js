@@ -1306,7 +1306,7 @@
                 if (this.container.find('input[name=daterangepicker_end]').hasClass("clicked")) {
                     this.setEndDate(date.clone());
                 }
-                this.container.find('.clicked').removeClass('clicked'); // clear class clicked 
+                this.container.find('.daterangepicker_input input' + '.clicked').removeClass('clicked');
                 //this.setStartDate(date.clone());
             } else {
                 if (this.timePicker) {
@@ -1328,7 +1328,7 @@
                 if (this.container.find('input[name=daterangepicker_start]').hasClass("clicked")) {
                     this.setStartDate(date.clone());
                 }
-                this.container.find('.clicked').removeClass('clicked'); // clear class clicked 
+                this.container.find('.daterangepicker_input input' + '.clicked').removeClass('clicked'); // clear class clicked 
                 //this.setEndDate(date.clone());
                 if (this.autoApply)
                     this.clickApply();
