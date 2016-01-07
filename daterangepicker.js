@@ -6,6 +6,7 @@
 * @website: https://www.improvely.com/
 */
 
+
 (function(root, factory) {
 
   if (typeof define === 'function' && define.amd) {
