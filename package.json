@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-daterangepicker",
-  "version": "2.1.17",
+  "version": "2.1.13-MTS.1",
   "description": "Date range picker component for Bootstrap",
   "main": "daterangepicker.js",
   "style": "daterangepicker.css",
@@ -9,10 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dangrossman/bootstrap-daterangepicker.git"
+    "url": "https://github.com/mtsint/bootstrap-daterangepicker.git"
   },
   "author": {
     "name": "Dan Grossman",
+    "updated by": "Meital"
     "email": "dan@dangrossman.info",
     "url": "http://www.dangrossman.info"
   },
