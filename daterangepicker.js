@@ -1,5 +1,5 @@
 /**
- * @version: 2.1.13-MTS.1  /***/
+ * @version: 2.1.13-MTS.1  
  * @author: Dan Grossman with changes meital  http://www.dangrossman.info/
  * @copyright: Copyright (c) 2012-2015 Dan Grossman. All rights reserved.
  * @license: Licensed under the MIT license. See http://www.opensource.org/licenses/mit-license.php
